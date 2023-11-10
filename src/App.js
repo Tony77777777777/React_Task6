@@ -34,12 +34,12 @@ function App() {
       </section>
       <section className="Contact">
         <h2>Contact</h2>
-        <p>Email: vasif219515@gmail.com</p>
+        <p>Email: adharsh@gmail.com</p>
         <p>Phone: (322) 654-754</p>
         
       </section>
       <footer>
-        <p>© 2023 Vasif</p>
+        <p>© 2023 Adharsh</p>
       </footer>
     </div>
   );
